@@ -9,6 +9,6 @@ same class will no be affected by this, so individual object get the modified be
     - Decorator pattern is used to a lot of Java IO classes, such as FileReader, BufferedReader.
 
 
--- Another a not.
+* Another a not.
     The Decorator Pattern attaches additional responsibilities to an object dynamically.
     Decorators provide a flexible alternative to subclassing for extending functionality.
