@@ -12,4 +12,6 @@ public class ComputerFactory {
         }
         return Optional.empty();
     }
+
+    private ComputerFactory() {}
 }
