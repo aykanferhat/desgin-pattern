@@ -1,4 +1,4 @@
-package superClass;
+package example1;
 
 public class PC extends Computer {
 
