@@ -1,0 +1,2 @@
+
+My Design Pattern notes.
